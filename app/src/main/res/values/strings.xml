@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quản lý thành viên CLB</string>
+    <string name="name">Họ và Tên :</string>
+    <string name="student_code">Chức Vụ:</string>
+</resources>
